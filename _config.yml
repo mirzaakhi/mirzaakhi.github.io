@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Researcher SFI CRT in Foundations of Data Science"
   location         : "Ireland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jUH3WPAAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Mirza-Akhi-Khatun"
