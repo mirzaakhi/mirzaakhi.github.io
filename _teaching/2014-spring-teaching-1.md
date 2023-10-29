@@ -8,7 +8,9 @@ date: 2023-01-24
 location: "Limerick, Ireland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Delivered one-hour lectures four times per week to the undergraduate students. 
+Teaching Geometry, Trigonometry, Pre-Calculus, Calculus.
+Preparing and delivering lectures, and tutorials.
 
 Heading 1
 ======
