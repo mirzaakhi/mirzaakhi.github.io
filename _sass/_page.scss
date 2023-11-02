@@ -49,6 +49,7 @@
 }
 
 .page__content {
+  text-align: justify;  // This line justifies the text
 
   h2 {
     padding-bottom: 0.5em;
@@ -398,4 +399,7 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+.spacer {
+  margin-bottom: 20px;
 }

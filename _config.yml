@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mirza Akhi"
 title_separator          : "-"
 name                     : &name "Mirza Akhi"
-description              : &description "Ph.D. Researcher SFI CRT in Foundations of Data Science"
+description              : &description "Ph.D. Researcher | SFI CRT in Foundations of Data Science"
 url                      : https://mirzaakhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mirzaakhi/mirzaakhi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mirza Akhi"
   avatar           : "akhi.png"
-  bio              : "Ph.D. Researcher SFI CRT in Foundations of Data Science"
+  bio              : "Ph.D. Researcher | SFI CRT in Foundations of Data Science"
   location         : "Ireland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
