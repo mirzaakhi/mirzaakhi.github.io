@@ -1,9 +1,9 @@
 ---
 title: "Science Mathematics 2"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Limerick, Mathematics & Statistics"
+venue: "Department of Mathematics and Statistics, University of Limerick"
 date: 2023-01-24
 location: "Limerick, Ireland"
 ---
