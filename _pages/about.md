@@ -10,8 +10,12 @@ redirect_from:
 
 <!-- Mirza Akhi Khatun is a Ph.D. Researcher at the Centre for Research Training in Foundation of Data Science, University of Limerick, Ireland -->
 <!-- ====== -->
-I am a PhD researcher at [Data Driven Computer Engineering](https://www.d2ice.ie/team), University of Limerick, Ireland. My ongoing research delves into healthcare IoT security, utilizing AI/ML innovations.
+I recently completed my PhD in Electronic and Computer Engineering at the University of Limerick, Ireland. My research focused on healthcare IoT security, deep learning-based cyber defence, and edge deployment. The PhD was completed through the thesis-by-publication pathway and supported by five peer-reviewed journal papers.
 
-I obtained an MSc in Computer Science and Engineering from Jagannath University, Bangladesh. A major focus of my research was Internet of Things (IoT) security and Machine Learning (ML). My academic background is in computer science. Furthermore, I received a scholarship from the Science Foundation Ireland Centre for Research Training in Foundations of Data Science (2022). As a Master of Science student, I achieved the top position in my class. I have presented my work at a number of prestigious international conferences. My research interests span IoT, Artificial Intelligence, Machine Learning, Data Analysis, Network Security, and Systems Architecture.
+I obtained an MSc in Computer Science and Engineering from Jagannath University, Bangladesh. A major focus of my research was Internet of Things (IoT) security and Machine Learning (ML). My academic background is grounded in computer science and engineering. Furthermore, I received a scholarship from the Science Foundation Ireland Centre for Research Training in Foundations of Data Science (2022). As a Master of Science student, I achieved the top position in my class. I have presented my research at national and international conferences and technical events, including SeaTech, HEAnet, and CyberUS. 
 
-As part of my role at university, I am a Teaching Assistant for the course on Data Engineering and Machine Learning. Outside of university, I also work as a private tutor for secondary school students in a variety of subjects including mathematics and computer programming. Additionally, I enjoy writing and making videos for [YouTube](https://www.youtube.com/@MirzaAkhi/featured).
+During my PhD, I was affiliated with the [Data Driven Computer Engineering](https://www.d2ice.ie/team) research group in the Department of Electronic and Computer Engineering at the University of Limerick, Ireland. As part of my role at university, I was a Graduate Teaching Assistant for courses on Mathematics, Data Engineering and Machine Learning, Cybersecurity, and Log Analysis.
+
+My research interests include IoT, Artificial Intelligence, Machine Learning, Cybersecurity, and Edge Computing.
+
+Outside of my work, I also serve as a peer reviewer for several IEEE and Elsevier journals, including SoftwareX. In my spare time, I enjoy writing, listening to music, and making videos for [YouTube](https://www.youtube.com/@MirzaAkhi/featured).
