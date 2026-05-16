@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mirza Akhi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mirza Akhi"
 description              : &description "PhD in Electronic and Computer Engineering | Healthcare IoT Security | Deep Learning"
